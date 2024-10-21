@@ -1,0 +1,5 @@
+<h1>Logistic Regression</h1>
+<p>Logistic regression is a statistical method used for binary classification tasks, where the outcome variable is categorical and has two possible classes. It is a type of regression analysis that estimates the probability of a binary outcome based on one or more predictor variables.</p>
+<p>In logistic regression, the output is transformed using the logistic function, also known as the sigmoid function, which maps any real value into the range [0, 1]. This transformation allows us to interpret the output as a probability of belonging to a particular class.</p>
+<p>The logistic regression model calculates the log-odds of the probability of the event occurring, which is then transformed into a probability using the logistic function. The model estimates the coefficients for the predictor variables to fit the data and make predictions.</p>
+<p>Logistic regression is widely used in various fields such as healthcare, marketing, finance, and social sciences for tasks like predicting customer churn, credit risk assessment, disease diagnosis, and more. It is a powerful and interpretable tool for binary classification problems.</p>
