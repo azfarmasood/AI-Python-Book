@@ -1,0 +1,5 @@
+<h1>Cross-Validation</h1>
+<p>Cross-validation is a technique used in machine learning and statistics to evaluate the performance of a predictive model. It is a crucial step in model development as it helps in assessing how well the model will generalize to new, unseen data.</p>
+<p>The basic idea behind cross-validation is to split the dataset into multiple subsets, train the model on a portion of the data, and then test it on the remaining data. This process is repeated multiple times with different splits of the data to ensure that the model's performance is consistent across different subsets.</p>
+<p>By using cross-validation, researchers can get a more accurate estimate of the model's performance compared to simply using a single train-test split. It helps in detecting issues like overfitting or underfitting and allows for fine-tuning the model parameters to improve its predictive power.</p>
+<p>Overall, cross-validation is a valuable tool in the machine learning workflow that helps in building robust and reliable predictive models.</p>
